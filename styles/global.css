@@ -27,7 +27,7 @@
 
 body {
     overflow: hidden;
-
+    /* background-color: var(--surface-secondary); */
     font: var(--text);
     color: var(--text-secondary);
 }
